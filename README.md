@@ -2,7 +2,9 @@
 
 "[프론트엔드 개발 환경의 이해와 실습](https://www.inflearn.com/course/프론트엔드-개발환경)" 강의 자료입니다.
 
-- 강의노트: [강의노트](https://gonghojin.github.io/seminar/2020/05/21/front-dev-env.html)
+- 강의노트:   
+      [강의노트1(웹팩 기초)](https://gonghojin.github.io/seminar/2020/05/21/front-dev-env.html)  
+      [강의노트2(린트,프리티어,웹팩 개발서버)](https://gonghojin.github.io/seminar/2020/05/28/front-dev-env-2.html)  
 - 실습 답지: [답안지](https://gonghojin.github.io/seminar/2020/06/21/front-dev-env-3.html)
 
 
