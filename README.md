@@ -1,6 +1,5 @@
 # 프론트엔드 개발 환경의 이해 
-
-"[프론트엔드 개발 환경의 이해와 실습](https://www.inflearn.com/course/프론트엔드-개발환경)" 강의 자료입니다.
+본내용은 "[프론트엔드 개발 환경의 이해와 실습](https://www.inflearn.com/course/프론트엔드-개발환경)" 강의 자료를 바탕으로 정리된 내용입니다.
 
 - 강의노트:   
       [강의노트1(웹팩 기초)](https://gonghojin.github.io/seminar/2020/05/21/front-dev-env.html)  
