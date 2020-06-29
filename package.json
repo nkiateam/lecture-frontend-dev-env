@@ -4,6 +4,7 @@
   "description": "\"프론트엔드 개발 환경의 이해\" 강의 자료입니다.",
   "main": ".eslintrc.js",
   "devDependencies": {
+    "cross-env": "^7.0.2",
     "css-loader": "^3.4.1",
     "file-loader": "^5.0.2",
     "style-loader": "^1.1.2",
@@ -12,7 +13,7 @@
     "webpack-cli": "^3.3.10"
   },
   "scripts": {
-    "build": "webpack --progress"
+    "build": "cross-env NODE_ENV=development webpack --progress"
   },
   "repository": {
     "type": "git",
