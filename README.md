@@ -12,7 +12,7 @@
 
 2. VSCODE(또는 기타 IDE)에서 clone 받은 directory 열기
 
-3. 각 Lab에 맞는 브런치로 checkout
+3. 각 Lab에 맞는 브런치로 checkout(clone 받은 소스 최상위(/lecture-frontend-dev-env)에서 명렁어 실행
     ~~~
      git checkout -f 1-webpack/1-entry
     ~~~
