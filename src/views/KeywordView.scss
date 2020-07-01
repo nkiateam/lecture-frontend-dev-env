@@ -2,4 +2,8 @@
 
 .KeywordView {
   @include list();
+  .testAction {
+    color: #ea0303;
+    font-size: 20px;
+  }
 }
