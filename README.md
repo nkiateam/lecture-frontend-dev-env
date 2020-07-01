@@ -30,9 +30,27 @@
 
 ## 브랜치
 - `1-webpack/1-entry`: 웹팩 엔트리/아웃풋 실습(Lab 1)
+    ~~~
+     git checkout -f 1-webpack/1-entry
+    ~~~
 - `1-webpack/2-loader`: 웹팩 로더 실습(Lab 2)
+    ~~~
+     git checkout -f 1-webpack/2-loader
+    ~~~
 - `1-webpack/3-plugin`: 웹팩 플러그인 실습(Lab 3)
+    ~~~
+     git checkout -f 1-webpack/3-plugin
+    ~~~
 - `3-lint/1-eslint`: 린트 실습(Lab 4)
+    ~~~
+     git checkout -f 3-lint/1-eslint
+    ~~~
 - `3-lint/2-prettier`: 프리티어 실습(Lab 5)
+    ~~~
+     git checkout -f 3-lint/2-prettier
+    ~~~
 - `4-webpack/1-dev-server`: 웹팩 개발 서버 실습(Lab 6)
+    ~~~
+     git checkout -f 4-webpack/1-dev-server
+    ~~~
 - `master`: 최종 결과물 
